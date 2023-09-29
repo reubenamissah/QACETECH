@@ -1,0 +1,22 @@
+{
+  "name": "qacetech",
+  "version": "1.0.0",
+  "description": "Code_Wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reubenamissah/QACETECH.git"
+  },
+  "author": "Reuben_Techy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reubenamissah/QACETECH/issues"
+  },
+  "homepage": "https://github.com/reubenamissah/QACETECH#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
