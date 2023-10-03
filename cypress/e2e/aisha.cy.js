@@ -19,6 +19,6 @@ describe("Given I am on the Konga page", function () {
       cy.get(aisha.passwrdField).type(aisha.passwordText)
       cy.get(aisha.loginButtn).click()
       cy.wait(5000)
-
+      
     })
 })
