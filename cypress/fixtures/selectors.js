@@ -6,3 +6,9 @@ export const reuben ={
     passwordTxt:"testing1234@",
     loginButton:".eed68_3IZCC > ._2aac2_3bwnD > ._0a08a_3czMG"
 }
+export const tobi ={
+firstLoginBtn: "._12e27_1r3kc > ._7ad32_SD12Y",
+validemailField:"#username",
+validpasswordField:"#password",
+loginBtn:".eed68_3IZCC > ._2aac2_3bwnD > ._0a08a_3czMG"
+}

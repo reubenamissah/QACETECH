@@ -1,4 +1,4 @@
-import {reuben} from "../fixtures/selector.js";
+import {reuben} from "../fixtures/selectors.js";
 
 Cypress.on('uncaught:exception', (err, runnable) =>{
   // returning false here prevents Cypress from
