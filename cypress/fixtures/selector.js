@@ -1,8 +1,9 @@
-export const reuben ={
+
+export const blessing ={
     loginBtn:"._12e27_1r3kc > ._7ad32_SD12Y",
     emailField:"#username",
-    emailTxt:'reuben@yopmail.com',
+    emailTxt:'blessingsnwokolo@gmail.com',
     passwordField:"#password",
-    passwordTxt:"testing1234@",
+    passwordTxt:"blessing@123",
     loginButton:".eed68_3IZCC > ._2aac2_3bwnD > ._0a08a_3czMG"
 }
